@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @Afnan786313
-- 👀 I’m interested in Data science
-- 🌱 I’m currently learning Advance Data Analytics
-- 💞️ I’m looking to collaborate on my personal portfolio
+Hi, I'm Afnan! 👋
+Data Analyst | Google Certified | SQL | R | Tableau
+I’m a Google-certified Data Analyst with skills in data collection, processing, preparation, and visualization. I specialize in using Spreadsheet, SQL, R, and Tableau to turn raw data into actionable insights.
+
+Skills:
+Spreadsheet, SQL, R for data analysis.
+Tableau for interactive visualizations
+Data cleaning & preparation
 
 
 <!---
